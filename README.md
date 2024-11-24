@@ -1,2 +1,3 @@
 # NetflixClone
- This repo is clone of an website
+
+https://nbhujbal123.github.io/NetflixClone/
